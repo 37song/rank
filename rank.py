@@ -7,7 +7,8 @@ import streamlit as st
 st.set_page_config(layout="centered", page_title="Team Rank", page_icon="🔢")
 
 # 타이틀 추가
-st.title('Team Rank')
+st.title('BetterJin309')
+st.subheader('Team Rank')
 
 # 스포츠 나열
 sports = ['축구','농구','야구']
